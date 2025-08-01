@@ -2,10 +2,10 @@ package org.example;
 
 public class Node {
 
-    private int valor;
-    private int altura;
-    private Node esquerdo;
-    private Node direito;
+     int valor;
+     int altura;
+     Node esquerdo;
+     Node direito;
 
 
     public Node(int valor) {
